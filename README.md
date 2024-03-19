@@ -42,7 +42,7 @@ Here's a quick overview of our treadmill products:
 
 ## What Good Looks Like 🌟
 
-In this repository, you will find a series of Python scripts and Jupyter notebooks that guide you through this exciting data exploration. What you can expect to accomplish:
+This repository contains a series of Python scripts and Jupyter notebooks that guide you through this exciting data exploration. What you can expect to accomplish:
 
 - Import and analyze the dataset, getting to know the data's structure and characteristics.
 - Uncover outliers through box plots and descriptive statistics.
@@ -61,4 +61,12 @@ We look forward to your contributions, insights, and recommendations, and we're 
 Stay tuned for updates, and let's make Aerofit even better for our customers! 🌟🤸‍♂️
 
 Keep sweating and coding! 💪👩‍💻👨‍💻
+
+## Recommendations 📊
+- Promote KP281 and KP481 treadmills as budget-friendly options, especially targeting customers with annual incomes of 39K - 53K Dollars.
+- Market KP781 treadmill as a premium product with advanced features, targeting professionals and athletes.
+- Enhance the marketing strategy for KP781 by associating it with renowned athletes like Neeraj Chopra, leveraging their achievements for better outreach.
+- Run special marketing campaigns on Women's Day and Mother's Day to encourage more women to adopt an exercise routine, highlighting the benefits of using our treadmills.
+- Research to expand the customer base beyond 50 years of age. Offer basic treadmill models (KP281/KP481) as suitable options for beginners in this age group.
+- Encourage existing customers to upgrade their treadmills to high-end models as their usage increases over time, increasing revenue for the business.
 
