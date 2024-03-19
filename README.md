@@ -3,6 +3,11 @@
 # Aerofit - Descriptive Statistics & Probability 🏋️‍♀️📈
 
 Welcome to the Aerofit Descriptive Statistics & Probability project repository! 🚀
+![OIP](https://github.com/santhosh-spark/Aerofit--Descriptive-Statistics-Probability/assets/73495628/5bdebe39-dd58-43a1-ba1e-b2ea4e2fefaf)
+![OIP (2)](https://github.com/santhosh-spark/Aerofit--Descriptive-Statistics-Probability/assets/73495628/578d8893-fb64-4478-9992-b042c7f8c0a9)
+![OIP (1)](https://github.com/santhosh-spark/Aerofit--Descriptive-Statistics-Probability/assets/73495628/d57c120e-7106-44ac-8b93-9448734ac435)
+
+
 
 ## About Aerofit 💪
 
